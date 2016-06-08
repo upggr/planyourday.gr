@@ -6,6 +6,9 @@
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
 }
+#menu-0 .mbr-navbar__section {
+  background: #2c2c2c;
+}
 #menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
 }
@@ -75,6 +78,15 @@
   color: #ffffff;
 }
 #msg-box4-25 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-29 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-29 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-29 .mbr-article {
   color: #ffffff;
 }
 #msg-box4-23 .mbr-header__text {

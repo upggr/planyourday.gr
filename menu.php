@@ -8,15 +8,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" href="assets/images/yourday-1703x917-11.png" type="image/x-icon">
   <meta name="description" content="">
-  
+
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:700,400&amp;subset=cyrillic,latin,greek,vietnamese">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/socicon/css/socicon.min.css">
   <link rel="stylesheet" href="assets/mobirise/css/style.css">
   <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
-  
-  
-  
+
+
+
 </head>
 <body>
 <section class="mbr-navbar mbr-navbar--freeze mbr-navbar--absolute mbr-navbar--sticky mbr-navbar--auto-collapse" id="menu-9">
@@ -25,15 +25,15 @@
             <div class="mbr-navbar__container">
                 <div class="mbr-navbar__column mbr-navbar__column--s mbr-navbar__brand">
                     <span class="mbr-navbar__brand-link mbr-brand mbr-brand--inline">
-                        
+
                         <span class="mbr-brand__name"><a class="mbr-brand__name text-white" href="https://mobirise.com">Plan Your Day</a></span>
                     </span>
                 </div>
                 <div class="mbr-navbar__hamburger mbr-hamburger"><span class="mbr-hamburger__line"></span></div>
                 <div class="mbr-navbar__column mbr-navbar__menu">
                     <nav class="mbr-navbar__menu-box mbr-navbar__menu-box--inline-right">
-                        <div class="mbr-navbar__column"><ul class="mbr-navbar__items mbr-navbar__items--right mbr-buttons mbr-buttons--freeze mbr-buttons--right btn-decorator mbr-buttons--active"><li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="index.html">Αρχικη</a></li><li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="index.html#msg-box3-6">Υπηρεσιες</a></li><li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="index.html#msg-box3-4">Σχετικα</a></li> <li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="menu.html">Μενου</a></li></ul></div>
-                        <div class="mbr-navbar__column"><ul class="mbr-navbar__items mbr-navbar__items--right mbr-buttons mbr-buttons--freeze mbr-buttons--right btn-inverse mbr-buttons--active"><li class="mbr-navbar__item"><a class="mbr-buttons__btn btn btn-default" href="index.html#form1-7">Επικοινωνια</a></li></ul></div>
+                        <div class="mbr-navbar__column"><ul class="mbr-navbar__items mbr-navbar__items--right mbr-buttons mbr-buttons--freeze mbr-buttons--right btn-decorator mbr-buttons--active"><li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="index.php">Αρχικη</a></li><li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="index.php#msg-box3-6">Υπηρεσιες</a></li><li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="index.php#msg-box3-4">Σχετικα</a></li> <li class="mbr-navbar__item"><a class="mbr-buttons__link btn text-white" href="menu.php">Μενου</a></li></ul></div>
+                        <div class="mbr-navbar__column"><ul class="mbr-navbar__items mbr-navbar__items--right mbr-buttons mbr-buttons--freeze mbr-buttons--right btn-inverse mbr-buttons--active"><li class="mbr-navbar__item"><a class="mbr-buttons__btn btn btn-default" href="index.php#form1-7">Επικοινωνια</a></li></ul></div>
                     </nav>
                 </div>
             </div>
@@ -41,13 +41,13 @@
     </div>
 </section>
 
-<section class="engine"><a rel="external" href="https://mobirise.com">mobile website creator</a></section><section class="mbr-section mbr-section--relative mbr-section--fixed-size mbr-parallax-background mbr-after-navbar" id="content4-17" style="background-image: url(assets/images/cropped-rustic-background-1500x692-98.jpg);">
+<section class="engine"><a rel="external" href="https://mobirise.com">website creator</a></section><section class="mbr-section mbr-section--relative mbr-section--fixed-size mbr-parallax-background mbr-after-navbar" id="content4-17" style="background-image: url(assets/images/cropped-rustic-background-1500x692-98.jpg);">
     <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(255, 255, 255);"></div>
-    
+
     <div class="mbr-section__container container mbr-section__container--std-top-padding">
         <div class="mbr-section__row row">
             <div class="mbr-section__col col-xs-12 col-lg-2-4 col-md-4 col-sm-6">
-                
+
                 <div class="mbr-section__container mbr-section__container--middle">
                     <div class="mbr-header mbr-header--reduce mbr-header--center mbr-header--wysiwyg">
                         <h3 class="mbr-header__text">ΣΑΛΑΤΕΣ</h3>
@@ -60,10 +60,10 @@
 Πατατοσαλάτα με Τόνο, Κάπαρη, Φρέσκο Κρεμμυδάκι και Μουστάρδα </p>
                     </div>
                 </div>
-                
+
             </div>
             <div class="mbr-section__col col-xs-12 col-lg-2-4 col-md-4 col-sm-6">
-                
+
                 <div class="mbr-section__container mbr-section__container--middle">
                     <div class="mbr-header mbr-header--reduce mbr-header--center mbr-header--wysiwyg">
                         <h3 class="mbr-header__text">ΟΡΕΚΤΙΚΑ</h3>
@@ -76,11 +76,11 @@
 Ταλιατέλες με Κολοκύθακι και Πέστο Βασιλικού </p>
                     </div>
                 </div>
-                
+
             </div>
             <div class="clearfix visible-sm-block"></div>
             <div class="mbr-section__col col-xs-12 col-lg-2-4 col-md-4 col-sm-6">
-                
+
                 <div class="mbr-section__container mbr-section__container--middle">
                     <div class="mbr-header mbr-header--reduce mbr-header--center mbr-header--wysiwyg">
                         <h3 class="mbr-header__text">ΚΥΡΙΩΣ ΠΙΑΤΑ</h3>
@@ -95,11 +95,11 @@
 (Χοιρινό Μπριζολάκι Γάλακτος, Μοσχαρίσιο Μπιφτέκι, Κοτόπουλο Παϊδάκι) </p>
                     </div>
                 </div>
-                
+
             </div>
             <div class="clearfix visible-md-block"></div>
             <div class="mbr-section__col col-xs-12 col-lg-2-4 col-md-4 col-sm-6 col-lg-offset-0 col-md-offset-2">
-                
+
                 <div class="mbr-section__container mbr-section__container--middle">
                     <div class="mbr-header mbr-header--reduce mbr-header--center mbr-header--wysiwyg">
                         <h3 class="mbr-header__text">ΓΑΡΝΙΤΟΥΡΕΣ</h3>
@@ -110,11 +110,11 @@
                         <p>Ρύζι με Λαχανικά(σε περίπτωση action με ριζότο αλλάζει σε λαχανικά σωτέ) Πατάτες Φούρνου αρωματισμένες με Ρίγανη </p>
                     </div>
                 </div>
-                
+
             </div>
             <div class="clearfix visible-sm-block"></div>
             <div class="mbr-section__col col-xs-12 col-lg-2-4 col-md-4 col-sm-6 col-md-offset-0 col-sm-offset-3">
-                
+
                 <div class="mbr-section__container mbr-section__container--middle">
                     <div class="mbr-header mbr-header--reduce mbr-header--center mbr-header--wysiwyg">
                         <h3 class="mbr-header__text">ΓΛΥΚΟ</h3>
@@ -123,20 +123,20 @@
                 <div class="mbr-section__container mbr-section__container--last">
                     <div class="mbr-article mbr-article--wysiwyg">
                         <p>Σιντριβάνι Σοκολάτας
- 
-Λουκουμάδες με Μέλι και Καρύδια Ταρταλέτες 
+
+Λουκουμάδες με Μέλι και Καρύδια Ταρταλέτες
 Φρέσκων Φρούτων
 
 Παγωτό σε Χωνάκι
 
-Γιαούρτι με Δαμάσκηνα, Ανανά και ξύσμα Λεμονιού 
-Φρέσκα Φρούτα παρουσίαση σε καθρέπτες Σφηνάκια με 
+Γιαούρτι με Δαμάσκηνα, Ανανά και ξύσμα Λεμονιού
+Φρέσκα Φρούτα παρουσίαση σε καθρέπτες Σφηνάκια με
 διάφορα μους </p>
                     </div>
                 </div>
-                
+
             </div>
-            
+
         </div>
     </div>
 </section>
@@ -147,30 +147,30 @@
         <div class="mbr-header mbr-header--wysiwyg row">
             <div class="col-sm-8 col-sm-offset-2">
                 <h3 class="mbr-header__text">Sit Down Buffet BBQ&nbsp;</h3>
-                
+
             </div>
         </div>
     </div>
     <div class="mbr-section__container container mbr-section__container--last">
         <div class="row">
-            <div class="mbr-article mbr-article--wysiwyg col-sm-8 col-sm-offset-2"><p>Appetizers 
+            <div class="mbr-article mbr-article--wysiwyg col-sm-8 col-sm-offset-2"><p>Appetizers
 Tzatziki
 Taramosalata (fish roe paste)
 Grilled Pita Bread
-Riganada ( bruscette with feta cheese, tomato, olive oil, oregano) Stuffed Tomatoes and Peppers with Rice and Herbs Kefalonian Meat Pie 
-Salad 
+Riganada ( bruscette with feta cheese, tomato, olive oil, oregano) Stuffed Tomatoes and Peppers with Rice and Herbs Kefalonian Meat Pie
+Salad
 Greek Salad
 Mixed Green Salad with Cabbage, Tomato Cherries
 and Gruyere Cheese with Balsamic Sauce
-Pasta Salad with Celery, colored Peppers, Dill, with Oil and Lemon sauce 
-Main Course BBQ 
-(cooked in the Open served buffet style) 
-Grilled Pork Souvlaki Grilled Vegetable Souvlaki Grilled Lamb chops Grilled Beef Burgers 
-Side Dishes 
+Pasta Salad with Celery, colored Peppers, Dill, with Oil and Lemon sauce
+Main Course BBQ
+(cooked in the Open served buffet style)
+Grilled Pork Souvlaki Grilled Vegetable Souvlaki Grilled Lamb chops Grilled Beef Burgers
+Side Dishes
 Roast Potatoes with Oregano White and Brown Rice</p></div>
         </div>
     </div>
-    
+
 </section>
 
 <section class="mbr-section mbr-section--relative mbr-parallax-background" id="msg-box4-26" style="background-image: url(assets/images/food-bread-rolls-croissants-french-pastry-with-cheese-and-wine-012848-1600x1200-33.jpg);">
@@ -185,15 +185,15 @@ Roast Potatoes with Oregano White and Brown Rice</p></div>
                     <div class="mbr-section__container mbr-section__container--middle">
                         <div class="mbr-header mbr-header--auto-align mbr-header--wysiwyg">
                             <h3 class="mbr-header__text">CHEESE &amp; WINE&nbsp;</h3>
-                            
+
                         </div>
                     </div>
                     <div class="mbr-section__container mbr-section__container--middle">
                         <div class="mbr-article mbr-article--auto-align mbr-article--wysiwyg"><p>Κρασί λευκό &amp; κόκκινο αναψυκτικά χυμοί νερά Σερβιρισμένα σε μπουφέ: κύβοι γραβιέρας με μέλι και κριθαρομπουκιές πλατώ με σφήνες παρμεζάνας ,pecorino &amp; plovolone ή γραβιέρα Νάξου,μετσοβόνε και γραβιέρα Κρήτης μελιτζανοσαλάτα dip γιαουρτιού με αρωματικά dip χούμους dip cream cheese αρωματισμένο ποικιλία από ελιές συνοδεύονται από κριτσίνια και αρωματισμένα πιτάκια Γλυκά: ποικιλία από πραλίνες-σοκολατάκια cheese cake σε σφηνάκια&nbsp;</p></div>
                     </div>
-                    
+
                 </div>
-                
+
             </div>
         </div>
     </div>
@@ -205,7 +205,7 @@ Roast Potatoes with Oregano White and Brown Rice</p></div>
         <div class="mbr-header mbr-header--wysiwyg row">
             <div class="col-sm-8 col-sm-offset-2">
                 <h3 class="mbr-header__text">BUFFET -COCTAIL</h3>
-                
+
             </div>
         </div>
     </div>
@@ -214,7 +214,7 @@ Roast Potatoes with Oregano White and Brown Rice</p></div>
             <div class="mbr-article mbr-article--wysiwyg col-sm-8 col-sm-offset-2"><p><strong>WELCOME BAR </strong>
 </p><ul><li>Βραχάκια Αρσενικού Νάξου &amp; γραβιέρα Κρήτης με κρίθινες μπουκιές παξιμαδιού Κυθήρων και ελιές Χαλκιδικής κ Καλαμάτας. </li><li>
 Stick λαχανικών με dip αρωματισμένου γιαουρτιού </li><li>
-Περαστά καναπέ ή τοποθετημένα σε μπουφέ: mini quiche Loraine 
+Περαστά καναπέ ή τοποθετημένα σε μπουφέ: mini quiche Loraine
 κροκέτα μελιτζάνας ή ρολάκι μελιτζάνας τυλισμένο καπνιστό τυρί και σάλτσα φρέσκιας ντομάτας
 τορτίγια με κοτόπουλο και κάρυ
 γαλλικές πατάτες γεμιστές με μανιτάρια &amp;τυριά ή μπέικον &amp; τυριά
@@ -223,7 +223,7 @@ Stick λαχανικών με dip αρωματισμένου γιαουρτ�
 <strong>BAR </strong><br></p><ul><li>&nbsp;Kρασί λευκό &amp; κόκκινο&nbsp;<br></li><li>ποτά βασικά τζιν,ουίσκι,βότκα χυμοί ,αναψυκτικά νερά ,πάγος&nbsp;</li></ul></div>
         </div>
     </div>
-    
+
 </section>
 
 <section class="mbr-section mbr-section--relative mbr-parallax-background" id="msg-box4-25" style="background-image: url(assets/images/catering-fingerfood-speisen-1900x1262-33.jpg);">
@@ -238,19 +238,49 @@ Stick λαχανικών με dip αρωματισμένου γιαουρτ�
                     <div class="mbr-section__container mbr-section__container--middle">
                         <div class="mbr-header mbr-header--auto-align mbr-header--wysiwyg">
                             <h3 class="mbr-header__text">FINGER FOOD</h3>
-                            
+
                         </div>
                     </div>
                     <div class="mbr-section__container mbr-section__container--middle">
-                        <div class="mbr-article mbr-article--auto-align mbr-article--wysiwyg"><p>Καναπεδάκια με Γαλοπούλα και Τυρί 
-Μαύρη Μπαγκέτα με Καπνιστό Σολομό 
-Τοματίνι και Μοτσαρέλα με Πέστο 
-Ψωμάκι Μπριος με Ζαμπόν και Τυρί 
+                        <div class="mbr-article mbr-article--auto-align mbr-article--wysiwyg"><p>Καναπεδάκια με Γαλοπούλα και Τυρί
+Μαύρη Μπαγκέτα με Καπνιστό Σολομό
+Τοματίνι και Μοτσαρέλα με Πέστο
+Ψωμάκι Μπριος με Ζαμπόν και Τυρί
 Αγγουράκι με Πάστα Ελιάς και Πιπεριά&nbsp;</p></div>
                     </div>
-                    
+
                 </div>
-                
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="mbr-section mbr-section--relative mbr-parallax-background" id="msg-box4-29" style="background-image: url(assets/images/coffeebreakculture-1680x1050-2.jpg);">
+    <div class="mbr-overlay" style="opacity: 0.5; background-color: rgb(0, 0, 0);"></div>
+    <div class="mbr-section__container mbr-section__container--isolated container">
+        <div class="row">
+            <div class="mbr-box mbr-box--fixed mbr-box--adapted">
+                <div class="mbr-box__magnet mbr-box__magnet--top-right mbr-section__left col-sm-6">
+                    <figure class="mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width"><img src="assets/images/site-fotos-vr-44-3008x2000-45.jpg" class="mbr-figure__img"></figure>
+                </div>
+                <div class="mbr-box__magnet mbr-class-mbr-box__magnet--center-left col-sm-6 mbr-section__right">
+                    <div class="mbr-section__container mbr-section__container--middle">
+                        <div class="mbr-header mbr-header--auto-align mbr-header--wysiwyg">
+                            <h3 class="mbr-header__text">Coffee Break</h3>
+
+                        </div>
+                    </div>
+                    <div class="mbr-section__container mbr-section__container--middle">
+                        <div class="mbr-article mbr-article--auto-align mbr-article--wysiwyg"><p>Φρέσκος Καφές Φίλτρου
+Διεθνείς Ποικιλίες Τσαγιού
+Εμφιαλωμένο Νερό, Διάφορα Αναψυκτικά
+Βουτήματα σε δύο γεύσεις, Ποικιλία από Κέικ, Κρουασάν Βουτύρου
+&nbsp;</p></div>
+                    </div>
+
+                </div>
+
             </div>
         </div>
     </div>
@@ -268,26 +298,26 @@ Stick λαχανικών με dip αρωματισμένου γιαουρτ�
                     <div class="mbr-section__container mbr-section__container--middle">
                         <div class="mbr-header mbr-header--auto-align mbr-header--wysiwyg">
                             <h3 class="mbr-header__text">KIDS MENU</h3>
-                            
+
                         </div>
                     </div>
                     <div class="mbr-section__container mbr-section__container--middle">
-                        <div class="mbr-article mbr-article--auto-align mbr-article--wysiwyg"><p><strong>ΚΥΡΙΩΣ</strong></p><p>τυροπιτάκια τρίγωνα χειροποίητα φιλέτο κοτόπουλο σε σουβλάκι με λαχανικά 
+                        <div class="mbr-article mbr-article--auto-align mbr-article--wysiwyg"><p><strong>ΚΥΡΙΩΣ</strong></p><p>τυροπιτάκια τρίγωνα χειροποίητα φιλέτο κοτόπουλο σε σουβλάκι με λαχανικά
 κεφτεδάκια με μοσχαρίσιο κιμά
-sticks από bamboo με ντοματίνια ,μοτσαρέλα &amp; φρέσκο βασιλικό τσιπς ή πατάτες τηγανιτές&nbsp;</p><p><strong>ΓΛΥΚΑ</strong></p><p>ποικιλία με τρουφάκια ποικιλία από cookies 
-γυάλες με smarties BAR 
+sticks από bamboo με ντοματίνια ,μοτσαρέλα &amp; φρέσκο βασιλικό τσιπς ή πατάτες τηγανιτές&nbsp;</p><p><strong>ΓΛΥΚΑ</strong></p><p>ποικιλία με τρουφάκια ποικιλία από cookies
+γυάλες με smarties BAR
 χυμοί πορτοκάλι ρόδι,βυσσινάδα,λεμονάδα υποβρύχιο&nbsp;</p></div>
                     </div>
-                    
+
                 </div>
-                
+
             </div>
         </div>
     </div>
 </section>
 
 <section class="mbr-section mbr-section--relative mbr-section--fixed-size" id="social-buttons2-14" style="background-color: rgb(240, 240, 240);">
-    
+
 
     <div class="mbr-section__container container">
         <div class="mbr-header mbr-header--inline row">
@@ -300,7 +330,7 @@ sticks από bamboo με ντοματίνια ,μοτσαρέλα &amp; �
 </section>
 
 <section class="mbr-section mbr-section--relative mbr-section--fixed-size" id="form1-16" style="background-color: rgb(239, 239, 239);">
-    
+
     <div class="mbr-section__container mbr-section__container--std-padding container">
         <div class="row">
             <div class="col-sm-12">
@@ -313,7 +343,7 @@ sticks από bamboo με ντοματίνια ,μοτσαρέλα &amp; �
                             <div class="hide" data-form-alert-success="true">Ευχαριστουμε</div>
                         </div>
                         <form action="https://mobirise.com/" method="post" data-form-title="Επικοινωνια">
-                            <input type="hidden" value="WtCmfISFlzw0feZu2ArvzjWBYoKkRCmu4AviHR63nGIx6MHPADjakB4wTgLm0oygwHR22iUFTT/rs4Ju/uzgb5zxXIzPvglccNdf3wSHgMiRzmohjf55zkvHDhSA1cYZ" data-form-email="true">
+                            <input type="hidden" value="KTL8RHXLzOIk4cekurpTYIAmfI6pRxEBVVi8MKnDi7ztbpK0DSMNsQWJvyDQ0CcFRFouVtLYkILookyJjn1COhdb/MqUDsLzSHsxMC6m0SQltttUdm2HA3RGteZgs+ts" data-form-email="true">
                             <div class="form-group">
                                 <input type="text" class="form-control" name="name" required="" placeholder="Ονομα*" data-form-field="Name">
                             </div>
@@ -345,7 +375,7 @@ sticks από bamboo με ντοματίνια ,μοτσαρέλα &amp; �
   <![endif]-->
   <script src="assets/mobirise/js/script.js"></script>
   <script src="assets/formoid/formoid.min.js"></script>
-  
-  
+
+
 </body>
 </html>
