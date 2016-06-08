@@ -1,0 +1,781 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.9.10",
+    "versionPublish": "2.9.10",
+    "name": "planyourday,gr",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise"
+    },
+    "publishType": "local",
+    "publishPath": "file:///Users/ioanniskokkinis/Dropbox/Projects/Client%20Websites/planyourday.gr/planyourday.gr"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yourday-1703x917-11.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Plan Your Day",
+              "link": "index.html",
+              "title": "Plan Your Day",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Plan Your Day</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Αρχικη</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box3-6\">Υπηρεσιες</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box3-4\">Σχετικα</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"menu.html\">Μενου</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-7\" data-toolbar=\"-mbrBtnMove\">Επικοινωνια</a></li>"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header1",
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/colour-1500x1000-44.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "title": "PLAN YOUR DAY",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"index.html#gallery2-8\" data-toolbar=\"-mbrBtnMove\">Εκδηλωσεις</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"index.html#form1-7\" data-toolbar=\"-mbrBtnMove\">Επικοινωνια</a>"
+        },
+        {
+          "_name": "header3",
+          "_anchor": "header3-2",
+          "title": "ΑΝΑΛΑΜΒΑΝΟΥΜΕ ΤΗ ΔΕΞΙΩΣΗ ΣΑΣ",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "thumb": "images/slide1-small.jpg",
+                "image": "images/slide1.jpg",
+                "active": false
+              },
+              {
+                "thumb": "images/slide2-small.jpg",
+                "image": "images/slide2.jpg"
+              },
+              {
+                "thumb": "images/slide3-small.jpg",
+                "image": "images/slide3.jpg"
+              },
+              {
+                "thumb": "images/slide4-small.jpg",
+                "image": "images/slide4.jpg"
+              },
+              {
+                "thumb": "images/slide5-small.jpg",
+                "image": "images/slide5.jpg",
+                "active": true
+              },
+              {
+                "thumb": "images/slide6-small.jpg",
+                "image": "images/slide6.jpg",
+                "active": false
+              },
+              {
+                "thumb": "images/slide7-small.jpg",
+                "image": "images/slide7.jpg"
+              },
+              {
+                "thumb": "images/slide8-small.jpg",
+                "image": "images/slide8.jpg",
+                "active": false
+              }
+            ],
+            "fullWidth": false,
+            "noGutter": false
+          },
+          "_anchor": "gallery2-8",
+          "articleLayout": true
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-4",
+          "_params": {
+            "showCaption": true,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "Plan Your Day",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Η επιχείρησή μας, ξεκίνησε το 2003. Στα πρώτα μας βήματα καταγράφουμε το επίσημο δείπνο που δόθηκε προς τιμή του Οικουμενικού Πατριάρχη Βαρθολομαίου, στις 24 Αυγούστου 2003, στα πλαίσια της επίσκεψής στην Ζάκυνθο. Ένα δείπνο που το χαρακτήρισε η ποιότητα ,η πολυτέλεια και η σωστή οργάνωση. Ακολούθησαν επαγγελματικά γεγονότα όπως η τουριστική ημερίδα που οργάνωσε το Σ.Ε.Τ.Ε στο Πνευματικό κέντρο της πόλης, εγκαίνια της τράπεζας Πειραιώς, επαγγελματικά events, δεξιώσεις γάμων βαπτίσεων , με τελευταίο μεγάλο γεγονός μπουφέ με τοπικές ελληνικές γεύσεις κατά την επίσκεψη της Βασίλισσας Σοφίας της Ισπανίας κ.λ.π</p><p>Η επιχείρησή μας αναγεννιέται .</p><p>Πάνω στις γερές βάσεις του παρελθόντος δημιουργεί νέες παροχές , αποκλειστικές συνεργασίες !! έχει την δυνατότητα και τον εξοπλισμό μαζί με τον συνεργάτη μας να εστιάσει και να εξυπηρετεί επτά γεγονότα την ίδια ημέρα.&nbsp;</p><p>Έχουμε σερβίτσια εξαιρετικής</p><p>ποιότητας Ιωνίας και είμαστε πρωτοπόροι στο set up , αγαπάμε την οργάνωση και την φινέτσα με μοναδικό στόχο την δική σας εξυπηρέτηση!&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#form1-7\" data-toolbar=\"-mbrBtnMove\">Επικοινωνια</a>"
+        },
+        {
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-5",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-github\" title=\"GitHub\" target=\"_blank\" href=\"https://github.com/Mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-github\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-behance\" title=\"Behance\" target=\"_blank\" href=\"https://www.behance.net/Mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-behance\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-tumblr\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-linkedin\"></i></a> "
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-6",
+          "_params": {
+            "showCaption": true,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "Υπηρεσιες",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<ul><li>μεταφορά και στήσιμο εξοπλισμού με \nεξειδικευμένους εργάτες στο χώρο \nσας \n\n</li><li>ηχητική κάλυψη του χώρου </li><li>μουσική κάλυψη από dj \n\n</li><li>μουσικά σχήματα όπως καντάδες \n\n•εξειδικευμένο προσωπικό \nεξυπηρέτησης \n\n</li><li>φαγητό εξαιρετικής ποιότητας από \nchef επαγγελματίες με γνώσεις πάνω στο μπουφέ και το στήσιμο του \n\n</li><li>κάβα ποτών, περιλαμβάνει πλήρη λίστα ποτών, εμφιαλωμένα τοπικά και μη \nκρασιά , αναψυκτικά \n\n</li><li>welcome bar με menu από cocktails \n\n</li><li>cheese &amp; wines menu \n\n</li><li>animatrisse για την απασχόληση των παιδιών για όλη την διάρκεια της \nδεξίωσης , του πάρτυ &nbsp;</li><li>μεταφορά με limo antique&nbsp;</li></ul>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#form1-7\" data-toolbar=\"-mbrBtnMove\">Επικοινωνια</a>"
+        },
+        {
+          "_name": "form1",
+          "_anchor": "form1-7",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Επικοινωνια",
+          "form": {
+            "action": "info@planyourday.gr",
+            "alerts": {
+              "success": "Ευχαριστουμε"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Ονομα*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Τηλεφωνο"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Μυνημα"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        }
+      ]
+    },
+    "menu.html": {
+      "settings": {
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "features1",
+          "_name": "content4",
+          "_anchor": "content4-17",
+          "_params": {
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cropped-rustic-background-1500x692-98.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 5,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "ΣΑΛΑΤΕΣ",
+          "caption1": "Δροσερή Πράσινη Σαλάτα με Κοτόπουλο Φιλέτο, Πιπεριές και Τραγανό Σουσαμένιο Κριτσίνι σε Σως Βαλσαμικού Ελληνική σαλάτα\nΣαλάτα Ζυμαρικών Φουσίλι με Κιτρινα Τυριά, Ζαμπόν και φρέσκα Μυρωδικά\nΠατατοσαλάτα με Τόνο, Κάπαρη, Φρέσκο Κρεμμυδάκι και Μουστάρδα ",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "ΟΡΕΚΤΙΚΑ",
+          "caption2": "Ρολά Μελιτζάνας με Λαχανικά και Φέτα\nΚρεατόπιτα με Χειροποίητη Ζύμη αρωματισμένη με Μαυροδάφνη, γεμιστή με Τριλογία Κρεάτων (κατσίκι, μοσχάρι, χοιρινό) Μπρόκολο Γκρατινέ\nΤαλιατέλες με Κολοκύθακι και Πέστο Βασιλικού ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "ΚΥΡΙΩΣ ΠΙΑΤΑ",
+          "caption3": "Μοσχάρι Μαριναρισμένο σε Μαυροδάφνη Κεφαλληνίας αρωματισμένο με Γαρύφαλλο και Σκόρδο\nΚοτόπουλο <br>Φιλέτο με Φρέσκα Μανιτάρια, Μπέικον, Λαχανικά, με Λευκό Κρασί και Κρέμα\nΧοιρινό γεμιστό με Πολύχρωμες Πιπεριές και Ανθότυρο\nΑντί για τα κυρίως πιάτα μπορούμε να έχουμε κρέατα σχάρας που θα ψηθούν επί τόπου\n(Χοιρινό Μπριζολάκι Γάλακτος, Μοσχαρίσιο Μπιφτέκι, Κοτόπουλο Παϊδάκι) ",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "ΓΑΡΝΙΤΟΥΡΕΣ",
+          "caption4": "Ρύζι με Λαχανικά(σε περίπτωση action με ριζότο αλλάζει σε λαχανικά σωτέ) Πατάτες Φούρνου αρωματισμένες με Ρίγανη ",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "ΓΛΥΚΟ",
+          "caption5": "Σιντριβάνι Σοκολάτας\n \nΛουκουμάδες με Μέλι και Καρύδια Ταρταλέτες \nΦρέσκων Φρούτων\n\nΠαγωτό σε Χωνάκι\n\nΓιαούρτι με Δαμάσκηνα, Ανανά και ξύσμα Λεμονιού \nΦρέσκα Φρούτα παρουσίαση σε καθρέπτες Σφηνάκια με \nδιάφορα μους ",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-28",
+          "_params": {
+            "showCaption": true,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bbq-3000x2250-64.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#cccccc",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "Sit Down Buffet BBQ&nbsp;",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Appetizers \nTzatziki\nTaramosalata (fish roe paste)\nGrilled Pita Bread\nRiganada ( bruscette with feta cheese, tomato, olive oil, oregano) Stuffed Tomatoes and Peppers with Rice and Herbs Kefalonian Meat Pie \nSalad \nGreek Salad\nMixed Green Salad with Cabbage, Tomato Cherries\nand Gruyere Cheese with Balsamic Sauce\nPasta Salad with Celery, colored Peppers, Dill, with Oil and Lemon sauce \nMain Course BBQ \n(cooked in the Open served buffet style) \nGrilled Pork Souvlaki Grilled Vegetable Souvlaki Grilled Lamb chops Grilled Beef Burgers \nSide Dishes \nRoast Potatoes with Oregano White and Brown Rice</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-26",
+          "_params": {
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/food-bread-rolls-croissants-french-pastry-with-cheese-and-wine-012848-1600x1200-33.jpg",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/o-wine-and-cheese-facebook-2000x1000-34.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "CHEESE &amp; WINE&nbsp;",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Κρασί λευκό &amp; κόκκινο αναψυκτικά χυμοί νερά Σερβιρισμένα σε μπουφέ: κύβοι γραβιέρας με μέλι και κριθαρομπουκιές πλατώ με σφήνες παρμεζάνας ,pecorino &amp; plovolone ή γραβιέρα Νάξου,μετσοβόνε και γραβιέρα Κρήτης μελιτζανοσαλάτα dip γιαουρτιού με αρωματικά dip χούμους dip cream cheese αρωματισμένο ποικιλία από ελιές συνοδεύονται από κριτσίνια και αρωματισμένα πιτάκια Γλυκά: ποικιλία από πραλίνες-σοκολατάκια cheese cake σε σφηνάκια&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "left"
+            },
+            ".mbr-article UL": {
+              "color": "#777777"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-20",
+          "_params": {
+            "showCaption": true,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/cocktails-1500x653-93.png",
+            "bgColor": "#7ac673",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ffffff",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "BUFFET -COCTAIL",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>WELCOME BAR </b>\n</p><ul><li>Βραχάκια Αρσενικού Νάξου &amp; γραβιέρα Κρήτης με κρίθινες μπουκιές παξιμαδιού Κυθήρων και ελιές Χαλκιδικής κ Καλαμάτας. </li><li>\nStick λαχανικών με dip αρωματισμένου γιαουρτιού </li><li>\nΠεραστά καναπέ ή τοποθετημένα σε μπουφέ: mini quiche Loraine \nκροκέτα μελιτζάνας ή ρολάκι μελιτζάνας τυλισμένο καπνιστό τυρί και σάλτσα φρέσκιας ντομάτας\nτορτίγια με κοτόπουλο και κάρυ\nγαλλικές πατάτες γεμιστές με μανιτάρια &amp;τυριά ή μπέικον &amp; τυριά\nκοτόπουλο σουβλάκι μαριναρισμένο με κόλιανδρο &amp; λεμόνι σερβίρεται με σάλτσα παρμεζάνας<br></li></ul><p>\n<b>ΓΛΥΚΑ</b> </p><ul><li>&nbsp;macarons σοκολάτας </li><li>mini σφηνάκι πανακότας<br></li></ul><p>\n<b>BAR </b><br></p><ul><li>&nbsp;Kρασί λευκό &amp; κόκκινο&nbsp;<br></li><li>ποτά βασικά τζιν,ουίσκι,βότκα χυμοί ,αναψυκτικά νερά ,πάγος&nbsp;</li></ul>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-9",
+          "_params": {
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/yourday-1703x917-11.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Plan Your Day",
+              "link": "index.html",
+              "title": "Plan Your Day",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Plan Your Day</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">Αρχικη</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box3-6\">Υπηρεσιες</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box3-4\">Σχετικα</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"menu.html\">Μενου</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-7\" data-toolbar=\"-mbrBtnMove\">Επικοινωνια</a></li>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-25",
+          "_params": {
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/catering-fingerfood-speisen-1900x1262-33.jpg",
+            "bgColor": "#2c82c9",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#c1c1c1",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/483747363-2125x1413-65.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "FINGER FOOD",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Καναπεδάκια με Γαλοπούλα και Τυρί \rΜαύρη Μπαγκέτα με Καπνιστό Σολομό \rΤοματίνι και Μοτσαρέλα με Πέστο \rΨωμάκι Μπριος με Ζαμπόν και Τυρί \rΑγγουράκι με Πάστα Ελιάς και Πιπεριά&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-23",
+          "_params": {
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/rainbow-jars-2100x900-49.jpg",
+            "bgColor": "#f97352",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#4c6972",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/byron-kids-menu-6-1200x875-1200x875-35.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "KIDS MENU",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>ΚΥΡΙΩΣ</b></p><p>τυροπιτάκια τρίγωνα χειροποίητα φιλέτο κοτόπουλο σε σουβλάκι με λαχανικά \nκεφτεδάκια με μοσχαρίσιο κιμά\nsticks από bamboo με ντοματίνια ,μοτσαρέλα &amp; φρέσκο βασιλικό τσιπς ή πατάτες τηγανιτές&nbsp;</p><p><b>ΓΛΥΚΑ</b></p><p>ποικιλία με τρουφάκια ποικιλία από cookies \rγυάλες με smarties BAR \rχυμοί πορτοκάλι ρόδι,βυσσινάδα,λεμονάδα υποβρύχιο&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+        },
+        {
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-14",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-github\" title=\"GitHub\" target=\"_blank\" href=\"https://github.com/Mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-github\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-behance\" title=\"Behance\" target=\"_blank\" href=\"https://www.behance.net/Mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-behance\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-tumblr\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-linkedin\"></i></a> "
+        },
+        {
+          "_name": "form1",
+          "_anchor": "form1-16",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Επικοινωνια",
+          "form": {
+            "action": "info@planyourday.gr",
+            "alerts": {
+              "success": "Ευχαριστουμε"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Ονομα*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Τηλεφωνο"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Μυνημα"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        }
+      ]
+    }
+  }
+}
